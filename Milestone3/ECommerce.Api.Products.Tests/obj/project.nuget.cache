@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZoaZ2yVrD0U2oeIh5WzxNu94Qkmf8S8CrKLWf5g2Y9XsUpJbYq6chMTvSPbnh1W7bH7FvTeOx4FEc9ZxlOKk2A==",
+  "dgSpecHash": "z3orgaOy0wgW6ru9qgstDqws13bFCWgElrq7Xa4st2nGQkZzLWmXvMWU2/4ua3DpAraOhQsTCVNuD9FM7BSxhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aymeric\\OneDrive - John Abbott College\\F2023\\WebProg\\Milestone3\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
   "expectedPackageFiles": [
@@ -66,6 +66,7 @@
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",

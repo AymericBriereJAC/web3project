@@ -1,0 +1,18 @@
+name: dockercompose17519547469244245551
+services:
+  ecommerce.api.customers:
+    build:
+      context: C:\Users\Aymeric\OneDrive - John Abbott College\F2023\WebProg\Milestone3
+      dockerfile: ECommerce.Api.Customers\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ecommerceapicustomers
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose17519547469244245551_default

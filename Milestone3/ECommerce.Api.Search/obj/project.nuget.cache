@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fLZF8kZienCpjahGa1ULRg8XHMqCoyHyRTvV1tBNVT2WZMdS3m8lGZrxcohf2pM2hllVd0oWSXChB4XVIEBL6g==",
+  "dgSpecHash": "F5gmvLs+0EbxWym6C5bSq8X6gwgfDbuI3TNFLwye6nH4OHzk3WLI+8bUsJVvkp0/mR+8rcZNhoUBFlKOZudBhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aymeric\\OneDrive - John Abbott College\\F2023\\WebProg\\Milestone3\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
   ],

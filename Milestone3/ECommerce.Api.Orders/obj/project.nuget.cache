@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xqZGFoDb8I9CwhJ7x9wsLYfk2it4JodbLxHXYj+OQcQs6dARq0/fx+9mvJzDHkai91MQxErpyzlGQc8WEm06oQ==",
+  "dgSpecHash": "fwOBDS6UAV7O1musHPSqCWJ08zShyH/DL7EiJejNUb5lpLV/ynFu8ryhEEt5DW2YcEQbobHHTRM+Iu8bfMBMQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aymeric\\OneDrive - John Abbott College\\F2023\\WebProg\\Milestone3\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aymeric\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Aymeric\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
